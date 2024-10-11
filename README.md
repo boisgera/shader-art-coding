@@ -1,6 +1,6 @@
 # Shader Art Coding
 
-Adaptation of [An introduction to Shader Art Coding] by [@kishimisu] for [Visual Studio Code]
+[An introduction to Shader Art Coding] by [@kishimisu]. Adaptation for [Visual Studio Code]
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=f4s1h2YETNY">
@@ -8,6 +8,8 @@ Adaptation of [An introduction to Shader Art Coding] by [@kishimisu] for [Visual
   </a>
 </p>
 
+
+[shader toy plugin]
 
 [An introduction to Shader Art Coding]: https://www.youtube.com/watch?v=f4s1h2YETNY
 [@kishimisu]: https://www.kishimisu.art/
